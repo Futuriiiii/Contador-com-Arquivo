@@ -1,1 +1,1 @@
-# Contador-com-Arquivo
+Este programa tem como intuito ajudar a se organizar ao fazer um 'shiny hunt' nos jogos de Pokémon usando a tecnica de 'softreset'. Ele faz um contador que incrementa em 1 sempre que aperta a tecla "enter" e fecha o programa ao apertar outra tecla. Além disso faz-se o uso de arquivos para gravar onde a contagem estava.
